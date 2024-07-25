@@ -19,14 +19,17 @@ Clone the repository:
 
 bash
 git clone https://github.com/yourusername/your-repo.git
+
 Navigate to the project directory:
 
 bash
 cd your-repo
+
 Install the required libraries:
 
 bash
 pip install -r requirements.txt
+
 Usage
 Ensure your database is set up and accessible.
 
