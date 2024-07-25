@@ -3,12 +3,12 @@ import MySQLdb
 from api import all_in
 app = Flask(__name__)
 
-# Настройки подключения к базе данных MySQL
+
 db_config = {
-    'host': 'fojvtycq53b2f2kx.chr7pe7iynqr.eu-west-1.rds.amazonaws.com',      # замените на ваш хост
-    'user': 'mlbmqsfjgpivuf5y',  # замените на ваше имя пользователя
-    'password': 'jruz5y7a348ij090',  # замените на ваш пароль
-    'database': 'luv21woivqwwdee4'   # замените на вашу базу данных
+    'host': 'fojvtycq53b2f2kx.chr7pe7iynqr.eu-west-1.rds.amazonaws.com',      
+    'user': 'mlbmqsfjgpivuf5y',
+    'password': 'jruz5y7a348ij090',
+    'database': 'luv21woivqwwdee4' 
 }
 
 
