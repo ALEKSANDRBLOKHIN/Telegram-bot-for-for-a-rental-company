@@ -1,3 +1,0 @@
-pip install  python-telegram-bot
-pip install flask flask-mysql
-pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
